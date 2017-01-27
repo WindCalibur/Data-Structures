@@ -9,7 +9,7 @@ This is a tree where left side of the root always have lower values and right si
 Sample node declaration:
 
 `struct node { 
-    int value; 
-    node *left; 
-    node *right; 
+    int value;  
+    node *left;  
+    node *right;  
 };` 
